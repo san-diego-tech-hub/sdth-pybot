@@ -1,20 +1,4 @@
-<div align="center">
-  <br />
-  <a href="https://operationcode.org">
-    <img
-      alt="Operation Code Hacktoberfest Banner"
-      src="https://s3.amazonaws.com/operationcode-assets/branding/logos/large-blue-logo.png"
-    >
-  </a>
-  <br />
-  <br />
-</div>
-
-[![Build Status](https://travis-ci.org/OperationCode/operationcode-pybot.svg?branch=master)](https://travis-ci.org/OperationCode/operationcode-pybot)
-
-# [OperationCode-Pybot](https://github.com/OperationCode/operationcode-pybot)
-
-OperationCode PyBot is a Python [Slack Bot](https://api.slack.com)
+SDTH PyBot is a Python [Slack Bot](https://api.slack.com)
 extending [Pyslacker's](https://pyslackers.com/)
 [sir-bot-a-lot](https://github.com/pyslackers/sir-bot-a-lot-2)
 framework.
@@ -24,9 +8,3 @@ framework.
 * [Slack Events API Framework](https://github.com/slackapi/python-slack-events-api)
 * [sir-bot-a-lot](https://github.com/pyslackers/sir-bot-a-lot-2)
 
-
-## Contributing
-Bug reports and pull requests are welcome on [Github](https://github.com/OperationCode/operationcode-pybot). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct. If you wish to assist, join the [\#oc-python-projects](https://operation-code.slack.com/messages/C7NJLCCMB/) rewrite to learn how to contribute.
-
-## License
-This package is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
